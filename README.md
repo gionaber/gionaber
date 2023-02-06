@@ -7,7 +7,7 @@ I’m Anıl from Turkey, and I love Design and Development. I really enjoy learn
 
 - 🔭 Check out my website: https://portfolio.anilkankavi.com
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to job opportunities to improve myself
+- 👯 I’m looking for job opportunities to improve myself
 - 🥅 2023 Goals: Learn more about web3
 
 
