@@ -13,9 +13,7 @@ I’m Anıl from Turkey, and I love Design and Development. I really enjoy learn
 
 ## Examples of Work
 
-<img src="https://github.com/gionaber/gionaber/blob/main/gioflix.gif" width="256" /> <img src="https://github.com/gionaber/gionaber/blob/main/giogym.gif" width="256" />
-
-<img src="https://github.com/gionaber/gionaber/blob/main/gioadvisor.gif" width="256" />
+<img src="https://github.com/gionaber/gionaber/blob/main/gioflix.gif" width="256" /> <img src="https://github.com/gionaber/gionaber/blob/main/giogym.gif" width="256" /> <img src="https://github.com/gionaber/gionaber/blob/main/gioadvisor.gif" width="256" />
 
 
 
