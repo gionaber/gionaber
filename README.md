@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Anıl.
+### Hi there 👋 
+
+I’m Anıl from Turkey, and I love Design and Development. I really enjoy learning languages and frameworks like Javascript and React, as well as work in WordPress. I also enjoy wireframing, ui, ux and design in general. 
 
 
 ## I'm a Bass Player, Music Producer, and Developer!!
@@ -11,9 +13,7 @@
 
 ## Examples of Work
 
-<img src="https://github.com/gionaber/gionaber/blob/main/gioflix.gif" width="256" />
-
-<img src="https://github.com/gionaber/gionaber/blob/main/giogym.gif" width="256" />
+<img src="https://github.com/gionaber/gionaber/blob/main/gioflix.gif" width="256" /> <img src="https://github.com/gionaber/gionaber/blob/main/giogym.gif" width="256" />
 
 <img src="https://github.com/gionaber/gionaber/blob/main/gioadvisor.gif" width="256" />
 
