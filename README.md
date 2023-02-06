@@ -9,5 +9,9 @@
 - 🥅 2023 Goals: Learn more about web3
 
 
+## Examples of Work
+
+<img src="https://github.com/gionaber/gionaber/blob/main/gioadvisor.gif" width="256"/>
+
 
 
