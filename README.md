@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Anıl.
 
-<!--
-**gionaber/gionaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a Bass Player, Music Producer, and Developer!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Check out my website: https://portfolio.anilkankavi.com
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to job opportunities to improve myself
+- 🥅 2023 Goals: Learn more about web3
+
+
+
+
