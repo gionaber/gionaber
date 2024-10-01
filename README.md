@@ -3,12 +3,12 @@
 I’m Anıl from Turkey, and I love Design and Development. I really enjoy learning languages and frameworks like Javascript and React, as well as work in WordPress. I also enjoy wireframing, ui, ux and design in general. 
 
 
-## I'm a Bass Player, Music Producer, and Developer!!
+## I'm a Bass Player, Music Producer, DevOps enthusiast and Developer!!
 
 - 🔭 Check out my website: https://portfolio.anilkankavi.com
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for job opportunities to improve myself
-- 🥅 2023 Goals: Learn more about web3
+- 🥅 2025 Goals: Learn more about DevOps practices
 
 
 ## Examples of Work
